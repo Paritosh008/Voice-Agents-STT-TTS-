@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables / API keys
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
