@@ -1,6 +1,7 @@
 # Dependencies
 node_modules/
 
+
 # Environment variables / API keys
 .env
 .env.local
